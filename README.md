@@ -1,2 +1,2 @@
 # PrinCSS
-Homework Webtechnology, First Semester, University of Applied Sciences St. Pölten
+Homework Webtechnology, 1st Semester, Digital Healthcare, University of Applied Sciences St. Pölten
